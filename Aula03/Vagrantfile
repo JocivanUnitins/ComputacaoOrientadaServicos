@@ -8,7 +8,7 @@ Vagrant.configure("2") do |config|
     web.vm.provision "shell",  inline: "apt install nginx -y"  
     web.vm.provider "virtualbox" do |v|
       v.name = "server_web"
-      v.memory = 250
+      v.memory = 1024
       v.cpus = 2      
     end  
   end
@@ -17,7 +17,7 @@ Vagrant.configure("2") do |config|
     db.vm.provision "shell",  inline: "apt install mysql-server -y"  
     db.vm.provider "virtualbox" do |v|
       v.name = "server_db"
-      v.memory = 800
+      v.memory = 1024
       v.cpus = 2
     end
   end
