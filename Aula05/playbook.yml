@@ -1,0 +1,21 @@
+---
+- hosts: ServerWeb
+  become: true
+  tasks:
+     - name: Atualizando APT
+       apt: update_cache=yes force_apt_get=yes cache_valid_time=3600
+
+     - name: Instalacao Nginx
+       apt:
+          name: nginx
+          state: latest
+
+- hosts: ServerBd
+  become: true
+  tasks:
+     - name: Instalacao Mysql
+       apt:
+          name: mysql-server
+          state: latest
+
+

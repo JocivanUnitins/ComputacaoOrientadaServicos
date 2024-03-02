@@ -1,0 +1,13 @@
+---
+- hosts: all
+  become: true
+  tasks:
+     - name: Instalacao Nginx
+       apt:
+          name: nginx
+          state: latest
+     - name: Instalacao Mysql
+       apt:
+          name: mysql-server
+          state: absent
+
