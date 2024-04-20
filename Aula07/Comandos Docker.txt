@@ -1,0 +1,44 @@
+docker -v
+docker version
+docker images
+docker run hello-world
+docker ps 
+docker ps -a
+
+docker run ubuntu
+docker run ubuntu sleep 1m
+
+docker start id_container
+docker stop -t 0 id_container
+docker start -a id_container # -a attached
+
+docker exec -it id_container bash
+
+docker rm id_container
+docker rm id_container --force
+docker container prune 
+
+docker rmi nome_image
+
+docker run -d nome_image
+
+docker run -P nome_image
+
+docker port id_container
+
+
+docker run -d -P --name nome_container ubuntu
+
+docker run -d -p 801:80 dockersamples/static-site
+
+
+docker run -d -p 12345:80 nginx
+
+docker ps -q
+docker stop $(docker ps -q)
+
+docker run -v "/var/www" ubuntu
+
+docker run -v "home/suassone/html:/var/www" nginx
+
+docker run -d -p 80:80 -v "$(pwd):/var/www/html" php:7.2-apache
