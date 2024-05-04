@@ -1,0 +1,26 @@
+services:
+  containerweb:
+    build: 
+     dockerfile: ./nginx/Dockerfile  
+     context: .
+    ports: 
+    - "80:80"  
+    networks:
+      - unitinsrede
+    volumes:
+      - ./aplicacao:/var/www/html
+      - ./nginx:/etc/nginx/http.d
+    depends_on:
+      - containerphp
+
+  containerphp:
+    image: php:8.3-fpm-alpine
+    networks:
+      - unitinsrede
+    volumes:
+      - ./aplicacao:/var/www/html      
+
+networks:
+  unitinsrede:
+    driver: bridge
+ 
