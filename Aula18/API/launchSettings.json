@@ -1,0 +1,14 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=bd,1433;Database=aula;User ID=sa;Password=aula123;Trusted_Connection=False;TrustServerCertificate=True;"
+  },
+  "profiles": {
+    "Docker Compose": {
+      "commandName": "DockerCompose",
+      "commandVersion": "1.0",
+      "serviceActions": {
+        "apiaula": "StartDebugging"
+      }
+    }
+  }
+}

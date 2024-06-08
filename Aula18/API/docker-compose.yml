@@ -1,0 +1,10 @@
+version: '3.4'
+
+services:
+  apiaula:
+    image: ${DOCKER_REGISTRY-}apiaula
+    build:
+      context: .
+      dockerfile: ApiAula/Dockerfile
+  
+      

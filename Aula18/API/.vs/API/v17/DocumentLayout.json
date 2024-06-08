@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Git\\ComputacaoOrientadaServicos\\Aula18\\API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75131C98-15E0-48A3-BD4A-829902473318}|docker-compose.dcproj|e:\\git\\computacaoorientadaservicos\\aula18\\api\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{75131C98-15E0-48A3-BD4A-829902473318}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75131C98-15E0-48A3-BD4A-829902473318}|docker-compose.dcproj|e:\\git\\computacaoorientadaservicos\\aula18\\api\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{75131C98-15E0-48A3-BD4A-829902473318}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70F603D0-1914-4637-B343-3F6BA9E98214}|ApiAula\\ApiAula.csproj|e:\\git\\computacaoorientadaservicos\\aula18\\api\\apiaula\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70F603D0-1914-4637-B343-3F6BA9E98214}|ApiAula\\ApiAula.csproj|solutionrelative:apiaula\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70F603D0-1914-4637-B343-3F6BA9E98214}|ApiAula\\ApiAula.csproj|e:\\git\\computacaoorientadaservicos\\aula18\\api\\apiaula\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70F603D0-1914-4637-B343-3F6BA9E98214}|ApiAula\\ApiAula.csproj|solutionrelative:apiaula\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75131C98-15E0-48A3-BD4A-829902473318}|docker-compose.dcproj|e:\\git\\computacaoorientadaservicos\\aula18\\api\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{75131C98-15E0-48A3-BD4A-829902473318}|docker-compose.dcproj|solutionrelative:launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70F603D0-1914-4637-B343-3F6BA9E98214}|ApiAula\\ApiAula.csproj|e:\\git\\computacaoorientadaservicos\\aula18\\api\\apiaula\\apiaula.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{70F603D0-1914-4637-B343-3F6BA9E98214}|ApiAula\\ApiAula.csproj|solutionrelative:apiaula\\apiaula.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75131C98-15E0-48A3-BD4A-829902473318}|docker-compose.dcproj|e:\\git\\computacaoorientadaservicos\\aula18\\api\\docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{75131C98-15E0-48A3-BD4A-829902473318}|docker-compose.dcproj|solutionrelative:docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70F603D0-1914-4637-B343-3F6BA9E98214}|ApiAula\\ApiAula.csproj|e:\\git\\computacaoorientadaservicos\\aula18\\api\\apiaula\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{70F603D0-1914-4637-B343-3F6BA9E98214}|ApiAula\\ApiAula.csproj|solutionrelative:apiaula\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70F603D0-1914-4637-B343-3F6BA9E98214}|ApiAula\\ApiAula.csproj|e:\\git\\computacaoorientadaservicos\\aula18\\api\\apiaula\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{70F603D0-1914-4637-B343-3F6BA9E98214}|ApiAula\\ApiAula.csproj|solutionrelative:apiaula\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70F603D0-1914-4637-B343-3F6BA9E98214}|ApiAula\\ApiAula.csproj|e:\\git\\computacaoorientadaservicos\\aula18\\api\\apiaula\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70F603D0-1914-4637-B343-3F6BA9E98214}|ApiAula\\ApiAula.csproj|solutionrelative:apiaula\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\Git\\ComputacaoOrientadaServicos\\Aula18\\API\\launchSettings.json",
+              "RelativeDocumentMoniker": "launchSettings.json",
+              "ToolTip": "E:\\Git\\ComputacaoOrientadaServicos\\Aula18\\API\\launchSettings.json",
+              "RelativeToolTip": "launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-08T12:43:02.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "docker-compose.override.yml",
+              "DocumentMoniker": "E:\\Git\\ComputacaoOrientadaServicos\\Aula18\\API\\docker-compose.override.yml",
+              "RelativeDocumentMoniker": "docker-compose.override.yml",
+              "ToolTip": "E:\\Git\\ComputacaoOrientadaServicos\\Aula18\\API\\docker-compose.override.yml",
+              "RelativeToolTip": "docker-compose.override.yml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-06-08T12:37:17.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "E:\\Git\\ComputacaoOrientadaServicos\\Aula18\\API\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "E:\\Git\\ComputacaoOrientadaServicos\\Aula18\\API\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-06-08T12:34:59.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "docker-compose",
+              "DocumentMoniker": "E:\\Git\\ComputacaoOrientadaServicos\\Aula18\\API\\docker-compose.dcproj",
+              "RelativeDocumentMoniker": "docker-compose.dcproj",
+              "ToolTip": "E:\\Git\\ComputacaoOrientadaServicos\\Aula18\\API\\docker-compose.dcproj",
+              "RelativeToolTip": "docker-compose.dcproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-08T12:34:56.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProdutosController.cs",
+              "DocumentMoniker": "E:\\Git\\ComputacaoOrientadaServicos\\Aula18\\API\\ApiAula\\Controllers\\ProdutosController.cs",
+              "RelativeDocumentMoniker": "ApiAula\\Controllers\\ProdutosController.cs",
+              "ToolTip": "E:\\Git\\ComputacaoOrientadaServicos\\Aula18\\API\\ApiAula\\Controllers\\ProdutosController.cs",
+              "RelativeToolTip": "ApiAula\\Controllers\\ProdutosController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T12:27:49.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "E:\\Git\\ComputacaoOrientadaServicos\\Aula18\\API\\ApiAula\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ApiAula\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "E:\\Git\\ComputacaoOrientadaServicos\\Aula18\\API\\ApiAula\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ApiAula\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T12:27:41.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "E:\\Git\\ComputacaoOrientadaServicos\\Aula18\\API\\ApiAula\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "ApiAula\\Models\\Produto.cs",
+              "ToolTip": "E:\\Git\\ComputacaoOrientadaServicos\\Aula18\\API\\ApiAula\\Models\\Produto.cs",
+              "RelativeToolTip": "ApiAula\\Models\\Produto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T12:24:29.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApiAula",
+              "DocumentMoniker": "E:\\Git\\ComputacaoOrientadaServicos\\Aula18\\API\\ApiAula\\ApiAula.csproj",
+              "RelativeDocumentMoniker": "ApiAula\\ApiAula.csproj",
+              "ToolTip": "E:\\Git\\ComputacaoOrientadaServicos\\Aula18\\API\\ApiAula\\ApiAula.csproj",
+              "RelativeToolTip": "ApiAula\\ApiAula.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-08T12:16:27.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "E:\\Git\\ComputacaoOrientadaServicos\\Aula18\\API\\ApiAula\\Dockerfile",
+              "RelativeDocumentMoniker": "ApiAula\\Dockerfile",
+              "ToolTip": "E:\\Git\\ComputacaoOrientadaServicos\\Aula18\\API\\ApiAula\\Dockerfile",
+              "RelativeToolTip": "ApiAula\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-08T12:23:31.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\Git\\ComputacaoOrientadaServicos\\Aula18\\API\\ApiAula\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ApiAula\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\Git\\ComputacaoOrientadaServicos\\Aula18\\API\\ApiAula\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ApiAula\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-08T12:21:41.341Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
